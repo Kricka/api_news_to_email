@@ -1,30 +1,40 @@
+Micromobility in limbo: Takeaways from Paris and LA
+A look at two cities that were at the forefront of the e-scooter micromobility revolution – Los Angeles and Paris.
+https://techcrunch.com/2022/12/31/micromobility-takeaways-paris-los-angeles-2022/
+
+How China is building a parallel generative AI universe
+The gigantic technological leap that machine learning models have shown in the last few months is getting everyone excited about the future of AI — but also nervous about its uncomfortable consequences. After text-to-image tools from Stability AI and OpenAI b…
+https://techcrunch.com/2022/12/31/how-china-is-building-a-parallel-generative-ai-universe/
+
 Fidelity slashes the value of its Twitter stake by over half
+Fidelity, one of the backers of Elon Musk's acquisition of Twitter, has halved the value of its shares in the social network, according to a memo.
 https://techcrunch.com/2022/12/30/fidelity-slashes-the-value-of-its-twitter-stake-by-over-half/
 
+The year customer experience died
+It was a terrible year for customer service. As a result, customer experience, something we've been hearing about for years, suffered.
+https://techcrunch.com/2022/12/31/the-year-customer-experience-died/
+
 Meet the cybercriminals of 2022
+Arrested, seized and doxed — but not forgotten.
 https://techcrunch.com/2022/12/30/meet-the-cybercriminals-2022/
 
 QuickVid uses AI to generate short-form videos, complete with voiceovers
+QuickVid, a platform that ties together various AI systems to generate short-form videos, brings opportunities as well as risks.
 https://techcrunch.com/2022/12/30/quickvid-uses-ai-to-generate-short-form-videos-complete-with-voiceovers/
 
 Daily Crunch: To take the friction out of consumer messaging, more companies are entering the Matrix
+Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.
 https://techcrunch.com/2022/12/30/daily-crunch-to-take-the-friction-out-of-consumer-messaging-more-companies-are-entering-the-matrix/
 
 There's now an open source alternative to ChatGPT, but good luck running it
+An open source equivalent of OpenAI's ChatGPT has been released. But it's not trained with the necessary data.
 https://techcrunch.com/2022/12/30/theres-now-an-open-source-alternative-to-chatgpt-but-good-luck-running-it/
 
-Meta acquires Luxexcel, a smart eyewear company
-https://techcrunch.com/2022/12/30/meta-acquires-luxexcel-a-smart-eyewear-company/
+How we covered the creator economy in 2022
+From YouTube to TikTok to OnlyFans, the creator economy revolves around the idea that creative people deserve fair payment for their labor.
+https://techcrunch.com/2022/12/31/how-we-covered-the-creator-economy-in-2022/
 
 What to look for in a term sheet as a first-time founder
+We recently sat down with three VCs who shared tips on spinning up an investing network from scratch and negotiating your first term sheet.
 https://techcrunch.com/2022/12/30/what-to-look-for-in-a-term-sheet-as-a-first-time-founder/
-
-Netflix vs. Hulu: Which offers better value?
-https://techcrunch.com/2022/12/30/netflix-vs-hulu-best-value/
-
-5 of the best apps to track your reading and discover new books
-https://techcrunch.com/2022/12/30/5-best-apps-track-reading-discover-new-books/
-
-Despite myriad flaws, US remains top spot for Black startup founders seeking VC dollars
-https://techcrunch.com/2022/12/30/despite-myriad-flaws-us-remains-top-spot-for-black-startup-founders-seeking-vc-dollars/
 
